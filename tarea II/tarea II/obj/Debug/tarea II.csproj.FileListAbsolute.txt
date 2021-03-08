@@ -1,0 +1,16 @@
+c:\users\fanboy022\documents\visual studio 2015\Projects\tarea II\tarea II\bin\Debug\tarea II.exe.config
+c:\users\fanboy022\documents\visual studio 2015\Projects\tarea II\tarea II\bin\Debug\tarea II.exe
+c:\users\fanboy022\documents\visual studio 2015\Projects\tarea II\tarea II\bin\Debug\tarea II.pdb
+c:\users\fanboy022\documents\visual studio 2015\Projects\tarea II\tarea II\obj\Debug\tarea_II.Form1.resources
+c:\users\fanboy022\documents\visual studio 2015\Projects\tarea II\tarea II\obj\Debug\tarea_II.Properties.Resources.resources
+c:\users\fanboy022\documents\visual studio 2015\Projects\tarea II\tarea II\obj\Debug\tarea II.csproj.GenerateResource.Cache
+c:\users\fanboy022\documents\visual studio 2015\Projects\tarea II\tarea II\obj\Debug\tarea II.exe
+c:\users\fanboy022\documents\visual studio 2015\Projects\tarea II\tarea II\obj\Debug\tarea II.pdb
+C:\Users\Fanboy022\Desktop\pruebas\tarea II\tarea II\bin\Debug\tarea II.exe.config
+C:\Users\Fanboy022\Desktop\pruebas\tarea II\tarea II\obj\Debug\tarea II.exe
+C:\Users\Fanboy022\Desktop\pruebas\tarea II\tarea II\obj\Debug\tarea II.pdb
+C:\Users\Fanboy022\Desktop\pruebas\tarea II\tarea II\bin\Debug\tarea II.exe
+C:\Users\Fanboy022\Desktop\pruebas\tarea II\tarea II\bin\Debug\tarea II.pdb
+C:\Users\Fanboy022\Desktop\pruebas\tarea II\tarea II\obj\Debug\tarea_II.Form1.resources
+C:\Users\Fanboy022\Desktop\pruebas\tarea II\tarea II\obj\Debug\tarea_II.Properties.Resources.resources
+C:\Users\Fanboy022\Desktop\pruebas\tarea II\tarea II\obj\Debug\tarea II.csproj.GenerateResource.Cache
