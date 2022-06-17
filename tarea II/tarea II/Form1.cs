@@ -29,7 +29,7 @@ namespace tarea_II
 
         private void button2_Click(object sender, EventArgs e)
         {
-            angulo_c = 180 - angulo_a - angulo_b;
+            angulo_c = 300 - angulo_a - angulo_b;
             contador = angulo_a + angulo_b + angulo_c;
 
             if (contador == 180)
